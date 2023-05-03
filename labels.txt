@@ -1,0 +1,3 @@
+0 Melanoma skin cancer
+1 Psoriasis
+2 Tinea Ringworm candidiasis
